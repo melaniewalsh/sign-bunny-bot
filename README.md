@@ -1,12 +1,12 @@
 
             |￣￣￣￣￣￣|
-            |           🤖          |
-            |        CODE     |
-            |        LIVES      |
-            |        HERE      |
+            |           🤖    |
+            |        CODE |
+            |        LIVES |
+            |        HERE |
             |＿＿＿＿＿＿ |
             (\__/) ||
             (•ㅅ•)  ||
             / 　 づ
 
-Check [@signbunnybot🤖](https://twitter.com/signbunnybot) out in action!
+Check out [@signbunnybot🤖](https://twitter.com/signbunnybot) in action!
