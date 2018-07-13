@@ -4,7 +4,8 @@ import re
 twitter = Twython(app_key, app_secret, oauth_token, oauth_token_secret)
 #Setting Twitter's search results as a variable
 
-query = ' (\__/)   ||              (•ㅅ•)   ||             /  　  づ'
+#query = ' (\__/)   ||              (•ㅅ•)   ||             /  　  づ'
+query = '#HistorianSignBunny'
 search_results = twitter.search(lang='en', q=query, count=100, result_type='popular')
 
 def is_public(status):
